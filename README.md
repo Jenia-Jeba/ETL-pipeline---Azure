@@ -17,9 +17,13 @@ Next, applied SQL queries to retrieve necessary information and generated variou
 •	Find out average maximum in salary in each department.
 
 
+![image](https://github.com/Jenia-Jeba/ETL-pipeline---Azure/assets/39514905/89373946-e41f-4c21-98f6-5d69f59e5846)
+
+
 And after that, moved all these processed files to a destination container in Azure blob storage. Orchestrated all these processes through creating pipeline in Azure Data Factory.
 
 
-![image](https://github.com/Jenia-Jeba/ETL-pipeline---Azure/assets/39514905/89373946-e41f-4c21-98f6-5d69f59e5846)
+![image](https://github.com/Jenia-Jeba/ETL-pipeline---Azure/assets/39514905/c0e804ac-c6c5-4017-ad7e-c6ee02031af7)
+
 
 
