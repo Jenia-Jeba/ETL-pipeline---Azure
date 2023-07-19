@@ -6,6 +6,7 @@ Developed and deployed an end-to-end ETL (Extract, Transform, Load) pipeline usi
 ![image](https://github.com/Jenia-Jeba/ETL-pipeline---Azure/assets/39514905/18699448-188c-4908-adc0-3ac4aa79c8ba)
 
 
+![Capture](https://github.com/Jenia-Jeba/ETL-pipeline---Azure/assets/39514905/4a030b41-7c32-482a-a196-0c91623dfe6c)
 
 
 Extracted data of a company’s Employees dataset from different sources, such as - .csv, .json, .xml etc. formats and gathered all of them into Azure blob storage, a source container. Created cluster on Azure Databricks and accessed all those data inside Databricks notebooks. Applied necessary transformation and data cleaning, such as – identifying and handling missing/null values, removing duplicates, correcting inconsistent data, handling outliers and erroneous data, standardizing data, handling data integrity issues etc. using Scala, PySpark, Python etc. Then, stored the transformed data into centralized locations – Azure SQL database and Azure Databricks Delta Lake DBFS.
