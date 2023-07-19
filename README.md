@@ -3,7 +3,8 @@
 Developed and deployed an end-to-end ETL (Extract, Transform, Load) pipeline using Azure Data factory, Databricks, Data Lake, Azure SQL and PySpark programming. 
 
 
-![image](https://github.com/Jenia-Jeba/ETL-pipeline---Azure/assets/39514905/c0e804ac-c6c5-4017-ad7e-c6ee02031af7)
+![image](https://github.com/Jenia-Jeba/ETL-pipeline---Azure/assets/39514905/18699448-188c-4908-adc0-3ac4aa79c8ba)
+
 
 
 
