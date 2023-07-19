@@ -19,5 +19,7 @@ Next, applied SQL queries to retrieve necessary information and generated variou
 
 And after that, moved all these processed files to a destination container in Azure blob storage. Orchestrated all these processes through creating pipeline in Azure Data Factory.
 
-![image](https://github.com/Jenia-Jeba/ETL-pipeline---Azure/assets/39514905/d80cd14d-dee8-4e4c-84a8-5f795558eff6)
+
+![image](https://github.com/Jenia-Jeba/ETL-pipeline---Azure/assets/39514905/89373946-e41f-4c21-98f6-5d69f59e5846)
+
 
