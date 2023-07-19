@@ -10,11 +10,9 @@ Next, applied SQL queries to retrieve necessary information and generated variou
 
 •	Show cost on world map
 
-•	Plot the graph by total salary per country and give a percentage break up 
+•	Plot the graph by total salary per country and give a percentage break up using pie chart, and 
 
-•	Cost of each department per country, and 
-
-•	Find out average maximum in salary in each department.
+•	Find out average, minimum and maximum in salary in each department using bar graph.
 
 
 ![image](https://github.com/Jenia-Jeba/ETL-pipeline---Azure/assets/39514905/89373946-e41f-4c21-98f6-5d69f59e5846)
